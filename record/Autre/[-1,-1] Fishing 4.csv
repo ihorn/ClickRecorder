@@ -1,0 +1,7 @@
+"BotSettings","2","5000","This Bot 'll fish 3 times in the [-1, -1] Fishing area of Dofus. After, it 'll hide and press escape to ensure no dialog is blocking."
+"Fish 1","LeftMouse","661","824","100","50","1000","10","2"
+"Fish 2","LeftMouse","690","864","100","50","1000","20","2"
+"Fish 3","LeftMouse","746","893","100","50","1000","30","2"
+"Fish 4","LeftMouse","772","878","100","50","1000","40","2"
+"Hide","LeftMouse","488","893","100","50","30000","30","1"
+"Escape","Keyboard","Escape","2000"

@@ -1,0 +1,4 @@
+"BotSettings","1","3","This Bot 'll fish 3 times in the [-1, -1] Fishing area of Dofus. After, it 'll hide and press escape to ensure no dialog is blocking."
+"(539, 118)","Mouse","DoubleLeftClick","539","118","100","50","7000","20","2"
+"KeyboardComment","Keyboard","super long string very long to type and to read because too lnng","7000"
+"KeyboardComment","Keyboard","Enter","7000"
