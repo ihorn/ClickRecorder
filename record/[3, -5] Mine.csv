@@ -1,4 +1,4 @@
-"BotSettings","999999","3","This Bot 'll fish 3 times in the [-1, -1] Fishing area of Dofus. After, it 'll hide and press escape to ensure no dialog is blocking."
+"BotSettings","999999","3","This Bot 'll get metal in the [3, -5] Mine area of Dofus. Tested during 1 day."
 "[3, -5] (526, 568)","Mouse","LeftClick","526","568","100","50","7000","20","2"
 "[3, -5] (564, 573)","Mouse","LeftClick","564","573","100","50","7000","20","2"
 "[3, -5] (586, 573)","Mouse","LeftClick","586","573","100","50","7000","20","2"
